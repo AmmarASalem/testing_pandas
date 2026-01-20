@@ -1,0 +1,21 @@
+ID,Name,Category,Price,Stock
+1,Milk,Dairy,3.50,40
+2,Bread,Bakery,2.00,60
+3,Eggs,Dairy,5.00,30
+4,Rice,Grains,10.00,25
+5,Pasta,Grains,4.00,50
+6,Chicken Breast,Meat,18.00,20
+7,Apples,Fruit,6.00,45
+8,Bananas,Fruit,4.00,55
+9,Tomatoes,Vegetables,5.50,35
+10,Potatoes,Vegetables,7.00,40
+11,Cheese,Dairy,12.00,15
+12,Yogurt,Dairy,3.00,50
+13,Orange Juice,Drinks,6.50,30
+14,Water Bottle,Drinks,1.50,100
+15,Chocolate Bar,Snacks,2.50,80
+16,Chips,Snacks,3.00,70
+17,Sugar,Baking,4.50,40
+18,Flour,Baking,5.00,35
+19,Tea,Drinks,8.00,25
+20,Coffee,Drinks,15.00,20
